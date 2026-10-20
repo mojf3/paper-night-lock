@@ -7,3 +7,5 @@ gradlew text eol=lf
 *.png binary
 *.apk binary
 *.zip binary
+# 保持可导入文件的原始字节，确保公开的 SHA-256 校验值一致。
+library/papers-*.json -text whitespace=cr-at-eol
