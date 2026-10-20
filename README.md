@@ -6,7 +6,7 @@
 
 ## 下载与摘要库
 
-从 [Releases](../../releases) 下载 `paper-night-lock-v1.0.0.apk` 安装包。源码可从仓库的 Code → Download ZIP 下载。
+从 [Releases](https://github.com/mojf3/paper-night-lock/releases) 下载 `paper-night-lock-v1.0.0.apk` 安装包。源码可从仓库的 Code → Download ZIP 下载。
 
 已整理的 [十篇真实论文摘要库](library/papers-10-2026-10-20.json) 可直接在 App 的“论文库 → 导入 JSON 论文库”中导入。安装后也可手动添加、编辑摘要，或再次导入新库，**无需修改源码、重新打包或重新安装**。导入整库会替换旧库并清零使用次数。
 
