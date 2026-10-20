@@ -1,0 +1,13 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#73E2CE</item>
+        <item name="android:windowBackground">#0C1423</item>
+        <item name="android:navigationBarColor">#0C1423</item>
+        <item name="android:statusBarColor">#0C1423</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+    <string name="accessibility_description">经你主动开启后，论文夜锁只使用窗口切换事件中的应用包名，识别你勾选的受限应用。在夜间时段显示抄写界面，并在开始时执行一次系统锁屏。不读取页面文字、不执行点击操作，也不上传数据。你可随时在系统设置关闭此服务。</string>
+</resources>

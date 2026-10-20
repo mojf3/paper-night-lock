@@ -1,0 +1,18 @@
+.gradle/
+.kotlin/
+local.properties
+**/build/
+.idea/
+*.iml
+
+# 本机工具、配置与签名凭据
+.build-cache/
+.android/
+.env
+.env.*
+*.jks
+*.keystore
+key.properties
+signing.properties
+credentials.json
+*.log

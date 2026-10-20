@@ -1,0 +1,305 @@
+[
+  {
+    "index": 1,
+    "arxivId": "2610.11203v1",
+    "title": "Pinpointing the cosmic web between massive galaxy clusters I. The incidence of HI and OVI as WHIM tracers",
+    "authors": [
+      "Karen Martínez-Acosta",
+      "Nicolas Tejos",
+      "Ismael Pessa",
+      "J Xavier Prochaska",
+      "Joseph Burchett",
+      "Britton Smith",
+      "Jessica Werk",
+      "Nelson Padilla",
+      "Sebastián López"
+    ],
+    "updated": "2026-10-08T04:06:34Z",
+    "sourceUrl": "https://arxiv.org/abs/2610.11203v1",
+    "originalCharacters": 1885,
+    "readableCharacters": 1918,
+    "words": 289,
+    "formatChanges": [
+      {
+        "from": "$Λ$CDM",
+        "to": "Lambda-CDM"
+      },
+      {
+        "from": "$α$",
+        "to": "alpha"
+      },
+      {
+        "from": "$Δv=\\pm1000$",
+        "to": "Delta v = +/-1000"
+      },
+      {
+        "from": "$Δd<3$",
+        "to": "Delta d < 3"
+      },
+      {
+        "from": "$\\sim$",
+        "to": "approximately "
+      },
+      {
+        "from": "\\%",
+        "to": "%"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "arxivId": "2610.15536v1",
+    "title": "Joint Constraints on the Hubble Constant and Cosmic Baryon Density from Localized Fast Radio Bursts and DESI DR2 Baryon Acoustic Oscillations",
+    "authors": [
+      "Ji-Guo Zhang",
+      "Tian-Nuo Li",
+      "Guo-Hong Du",
+      "Wan-Peng Sun",
+      "Jing-Fei Zhang",
+      "Xin Zhang"
+    ],
+    "updated": "2026-10-11T11:18:03Z",
+    "sourceUrl": "https://arxiv.org/abs/2610.15536v1",
+    "originalCharacters": 1276,
+    "readableCharacters": 1209,
+    "words": 166,
+    "formatChanges": [
+      {
+        "from": "$H_0=71.4^{+2.2}_{-2.5}\\ {\\rm km\\ s^{-1}\\ Mpc^{-1}}$",
+        "to": "H0 = 71.4 (+2.2/-2.5) km/s/Mpc"
+      },
+      {
+        "from": "$Ω_{\\rm b}=0.0503^{+0.0025}_{-0.0021}$",
+        "to": "Omega_b = 0.0503 (+0.0025/-0.0021)"
+      },
+      {
+        "from": "$H_0=68.8\\pm1.0\\ {\\rm km\\ s^{-1}\\ Mpc^{-1}}$",
+        "to": "H0 = 68.8 +/- 1.0 km/s/Mpc"
+      },
+      {
+        "from": "$Ω_{\\rm b}$",
+        "to": "Omega_b"
+      },
+      {
+        "from": "$H_0$",
+        "to": "H0"
+      },
+      {
+        "from": "$Λ$CDM",
+        "to": "Lambda-CDM"
+      },
+      {
+        "from": "\\%",
+        "to": "%"
+      },
+      {
+        "from": "$",
+        "to": ""
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "arxivId": "2610.13062v1",
+    "title": "A Relationship Between Fast Radio Burst Dispersion Measure and Host Galaxy Inclination",
+    "authors": [
+      "Lachlan Marnoch",
+      "Stuart D. Ryder",
+      "Sunil Simha",
+      "Alexa C. Gordon",
+      "R. M. Shannon",
+      "Nicolas Tejos",
+      "Marcin Glowacki",
+      "Ziteng Wang",
+      "Elizabeth K. Mahony",
+      "J. Xavier Prochaska",
+      "Wen-fai Fong",
+      "Richard M. McDermid"
+    ],
+    "updated": "2026-10-09T06:19:59Z",
+    "sourceUrl": "https://arxiv.org/abs/2610.13062v1",
+    "originalCharacters": 1906,
+    "readableCharacters": 1906,
+    "words": 313,
+    "formatChanges": []
+  },
+  {
+    "index": 4,
+    "arxivId": "2610.16200v1",
+    "title": "Intrinsic Soft X-ray Emission from the Hot Circumgalactic Medium in IllustrisTNG",
+    "authors": [
+      "Minjae Kim",
+      "Junhan Kim"
+    ],
+    "updated": "2026-10-12T05:31:14Z",
+    "sourceUrl": "https://arxiv.org/abs/2610.16200v1",
+    "originalCharacters": 1372,
+    "readableCharacters": 1355,
+    "words": 206,
+    "formatChanges": [
+      {
+        "from": "$10^{11.75}<M_{500}/M_\\odot<10^{12.25}$",
+        "to": "10^(11.75) < M500/M_sun < 10^(12.25)"
+      },
+      {
+        "from": "$T \\geq 10^6$~K",
+        "to": "T >= 10^6 K"
+      },
+      {
+        "from": "$0.15R_{500}$",
+        "to": "0.15 R500"
+      },
+      {
+        "from": "$R_{500}$",
+        "to": "R500"
+      },
+      {
+        "from": "0.5--2~keV",
+        "to": "0.5-2 keV"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "arxivId": "2610.17200v1",
+    "title": "Interpreting the stacked kinetic SZ signal II: the degeneracy between satellite galaxies and baryonic feedback",
+    "authors": [
+      "Lurdes Ondaro-Mallea",
+      "Boryana Hadzhiyska",
+      "Raul E. Angulo"
+    ],
+    "updated": "2026-10-12T17:59:01Z",
+    "sourceUrl": "https://arxiv.org/abs/2610.17200v1",
+    "originalCharacters": 1678,
+    "readableCharacters": 1673,
+    "words": 250,
+    "formatChanges": [
+      {
+        "from": "$\\times$",
+        "to": " x "
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "arxivId": "2610.08436v1",
+    "title": "The impact of feedback and cosmology on Cosmic Infrared Background cross-correlations",
+    "authors": [
+      "Sara Maleubre",
+      "David Alonso",
+      "Reggie Dunsdon",
+      "Adrien La Posta",
+      "Amy Wayland",
+      "Joop Schaye"
+    ],
+    "updated": "2026-10-06T14:32:43Z",
+    "sourceUrl": "https://arxiv.org/abs/2610.08436v1",
+    "originalCharacters": 1373,
+    "readableCharacters": 1323,
+    "words": 191,
+    "formatChanges": [
+      {
+        "from": "$\\langle bρ_{\\rm SFR}\\rangle$",
+        "to": "<b rho_SFR>"
+      },
+      {
+        "from": "$ρ_{\\rm SFR}$",
+        "to": "rho_SFR"
+      },
+      {
+        "from": "$z=0$",
+        "to": "z=0"
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "arxivId": "2610.10741v1",
+    "title": "Feedback-Conditional 3D Reconstruction of Cosmic Baryons with Flow Matching",
+    "authors": [
+      "Maryam Hussaini",
+      "Aizhan Akhmetzhanova",
+      "Carolina Cuesta-Lazaro",
+      "Liam Connor"
+    ],
+    "updated": "2026-10-07T18:10:01Z",
+    "sourceUrl": "https://arxiv.org/abs/2610.10741v1",
+    "originalCharacters": 1472,
+    "readableCharacters": 1476,
+    "words": 222,
+    "formatChanges": [
+      {
+        "from": "$\\sim$\\,4$^3$",
+        "to": "approximately 4^3"
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "arxivId": "2610.07140v1",
+    "title": "And Then There WEre Baryons (ATWEB): The Baryon Budget of the Universe in Halos and the IGM over 13 Billion Years of Cosmic Time",
+    "authors": [
+      "Mohammadreza Ayromlou",
+      "G. Mark Voit",
+      "Thomas H. Reiprich",
+      "Cristiano Porciani",
+      "Dominique Eckert"
+    ],
+    "updated": "2026-10-05T18:00:00Z",
+    "sourceUrl": "https://arxiv.org/abs/2610.07140v1",
+    "originalCharacters": 1920,
+    "readableCharacters": 1959,
+    "words": 292,
+    "formatChanges": [
+      {
+        "from": "~",
+        "to": "approximately "
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "arxivId": "2501.14063v1",
+    "title": "Empirical estimation of host galaxy dispersion measure towards well localized fast radio bursts",
+    "authors": [
+      "Lucas Bernales--Cortes",
+      "Nicolas Tejos",
+      "J. Xavier Prochaska",
+      "Ilya S. Khrykin",
+      "Lachlan Marnoch",
+      "Stuart D. Ryder",
+      "Ryan M. Shannon"
+    ],
+    "updated": "2025-01-23T19:54:04Z",
+    "sourceUrl": "https://arxiv.org/abs/2501.14063v1",
+    "originalCharacters": 1915,
+    "readableCharacters": 1915,
+    "words": 297,
+    "formatChanges": []
+  },
+  {
+    "index": 10,
+    "arxivId": "2607.09109v1",
+    "title": "Fast Radio Bursts Trace Cosmic Star Formation with Little Delay",
+    "authors": [
+      "Yi-Ying Wang",
+      "Yin-Jie Li",
+      "Yi-Zhong Fan"
+    ],
+    "updated": "2026-07-10T05:45:41Z",
+    "sourceUrl": "https://arxiv.org/abs/2607.09109v1",
+    "originalCharacters": 1071,
+    "readableCharacters": 1072,
+    "words": 151,
+    "formatChanges": [
+      {
+        "from": "$2σ$",
+        "to": "2 sigma"
+      },
+      {
+        "from": "$0.1-0.3$",
+        "to": "0.1-0.3"
+      }
+    ]
+  }
+]
